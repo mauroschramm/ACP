@@ -10,10 +10,11 @@
 Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvido pelo professor em aula. Trata-se da aplicação da técnica de análise das componentes principais (PCA, na sigla em inglês) através da biblioteca de visão computacional OpenCV. Não foi realizada uma nova implementação do algoritmo da PCA. 
 O programa utiliza uma base imagens conhecida como ORL, adicionada de algumas imagens produzidas pelo autor deste trabalho, conforme figura abaixo.
 
-Iagens adicionadas à base ORL:
+Imagens adicionadas à base ORL:
 ![ops](./aux/imagens_adicionais.JPG)
 
 [Enunciado do trabalho](./aux/enunciado.pdf)
+
 [Implementação](./Eigen_Faces_Final.ipynb)
 
 --------------
