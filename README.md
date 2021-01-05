@@ -19,7 +19,7 @@ Imagens adicionadas à base ORL:
 
 [Implementação](./Eigen_Faces_Final.ipynb)
 
-[Implementação no Google Colab (somente leitura)](https://colab.research.google.com/drive/13fHKoLPvKiY-0WNzVG17Su20QaH6j5qy?usp=sharing)
+[Implementação no Google Colab (link somente leitura)](https://colab.research.google.com/drive/13fHKoLPvKiY-0WNzVG17Su20QaH6j5qy?usp=sharing)
 
 --------------
 
