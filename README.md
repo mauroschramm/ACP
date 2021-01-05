@@ -8,8 +8,13 @@
 ### Descrição Geral
 
 Trabalho desenvolvido na linguagem Python a partir do exemplo em Java desenvolvido pelo professor em aula. Trata-se da aplicação da técnica de análise das componentes principais (PCA, na sigla em inglês) através da biblioteca de visão computacional OpenCV. Não foi realizada uma nova implementação do algoritmo da PCA. 
+O programa utiliza uma base imagens conhecida como ORL, adicionada de algumas imagens produzidas pelo autor deste trabalho, conforme figura abaixo.
+
+Iagens adicionadas à base ORL:
+![ops](./aux/imagens_adicionais.JPG)
 
 [Enunciado do trabalho](./aux/enunciado.pdf)
+[Implementação](./Eigen_Faces_Final.ipynb)
 
 --------------
 
@@ -22,9 +27,10 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
 ### Instruções para execução
 
-1. Crie um projeto no Google Colaboratory (https://colab.research.google.com/)
-2. Copie o [código do programa](./Eigen_Faces_Final.ipynb) e cole em uma célula de código do projeto recém criado
-3. Carregue os arquivos de imagem para a pasta raiz do sistema de arquivos no projeto do colab (conforme figura abaixo)
-4. Execute a célula de código
+1. Crie um projeto no Google Colab (https://colab.research.google.com/);
+2. Copie o [código do programa](./Eigen_Faces_Final.ipynb) e cole em uma célula de código do projeto recém criado no Colab;
+3. Baixe o [arquivo com a imagens](./images.zip), descompate-o e carregue os arquivos de imagem para a pasta raiz do sistema de arquivos no projeto do colab (conforme figura abaixo);
+4. Execute a célula de código.
 
+Arquivos de imagens no projeto do Google Colab:
 ![ops](./aux/arquivos_eigen.JPG)
