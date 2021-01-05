@@ -34,7 +34,7 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
 1. Abra o arquivo com o código do programa [Eigen_Faces_Final.ipynb](./Eigen_Faces_Final.ipynb) e clique no ícone ![Open in Colab](./aux/open_in_colab.JPG)
 
-   Isto abrirá um *notebook* no Google Colab;
+   Isto abrirá um *notebook* no Google Colab com uma célula contendo o programa;
 2. Baixe o arquivo com a imagens [images.zip](./images.zip), descompate-o e carregue os arquivos de imagem para a pasta raiz do sistema de arquivos do notebook recém aberto no Colab (conforme figura abaixo);
 3. Execute a célula de código no Colab.
 
