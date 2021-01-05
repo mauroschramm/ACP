@@ -36,7 +36,7 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
    Isto abrirá um *notebook* no Google Colab;
 2. Baixe o arquivo com a imagens [images.zip](./images.zip), descompate-o e carregue os arquivos de imagem para a pasta raiz do sistema de arquivos do notebook recém aberto no Colab (conforme figura abaixo);
-3. Execute a célula de código.
+3. Execute a célula de código no Colab.
 
 Arquivos de imagens no projeto do Google Colab:
 
