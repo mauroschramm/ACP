@@ -32,10 +32,11 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 
 ### Instruções para execução
 
-1. Crie um novo *notebook* no Google Colab (https://colab.research.google.com/);
-2. Copie o [código do programa](./Eigen_Faces_Final.ipynb) e cole em uma célula de código do *notebook* recém criado no Colab;
-3. Baixe o arquivo com a imagens [images.zip](./images.zip), descompate-o e carregue os arquivos de imagem para a pasta raiz do sistema de arquivos no projeto do colab (conforme figura abaixo);
-4. Execute a célula de código.
+1. Abra o arquivo com o código do programa [Eigen_Faces_Final.ipynb](./Eigen_Faces_Final.ipynb) e clique no ícone ![Open in Colab](./aux/open_in_colab.JPG)
+
+   Isto abrirá um *notebook* no Google Colab;
+2. Baixe o arquivo com a imagens [images.zip](./images.zip), descompate-o e carregue os arquivos de imagem para a pasta raiz do sistema de arquivos do notebook recém aberto no Colab (conforme figura abaixo);
+3. Execute a célula de código.
 
 Arquivos de imagens no projeto do Google Colab:
 
