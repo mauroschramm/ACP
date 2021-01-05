@@ -36,4 +36,5 @@ A figura abaixo apresenta a saída gerada pelo programa em uma execução
 4. Execute a célula de código.
 
 Arquivos de imagens no projeto do Google Colab:
+
 ![ops](./aux/arquivos_eigen.JPG)
